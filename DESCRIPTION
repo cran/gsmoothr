@@ -1,18 +1,13 @@
 Package: gsmoothr
-Version: 0.1.5
-Date: 2011/04/11
+Version: 0.1.7
+Date: 2013/03/03
 Title: Smoothing tools
-Author: Mark Robinson <mrobinson@wehi.edu.au>
-Maintainer: ORPHANED
+Author: Mark Robinson <mark.robinson@imls.uzh.ch>
+Maintainer: Mark Robinson <mark.robinson@imls.uzh.ch>
 Depends: R (>= 2.8.0), methods
-Description: Tools rewritten in C for various smoothing taks
+Description: Tools rewritten in C for various smoothing tasks
 License: LGPL (>= 2.0)
-Repository: CRAN
-Repository/R-Forge/Project: gsmoothr
-Repository/R-Forge/Revision: 164
-Date/Publication: 2011-06-23 07:26:48
-Packaged: 2011-04-28 12:59:00 UTC; rforge
+Packaged: 2014-03-03 07:54:29 UTC; mark
 NeedsCompilation: yes
-X-CRAN-Original-Maintainer: Mark Robinson <mrobinson@wehi.edu.au>
-X-CRAN-Comment: Orphaned on 2013-12-21 as maintainer address
-        <mrobinson@wehi.edu.au> bounced.
+Repository: CRAN
+Date/Publication: 2014-06-10 09:55:15
